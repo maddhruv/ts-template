@@ -10,7 +10,8 @@
     "lint": "tsc",
     "dev": "vitest",
     "test": "vitest run",
-    "changeset": "changeset"
+    "changeset": "changeset",
+    "release": "npm run build && changeset publish"
   },
   "repository": {
     "type": "git",
