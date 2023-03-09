@@ -1,5 +1,7 @@
 # TS Template
 
+[![npm version](https://badge.fury.io/js/types-sync.svg)](https://www.npmjs.com/package/types-sync)
+
 You only need this template to get started.
 
 🦋 Changesets Included

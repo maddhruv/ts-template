@@ -9,7 +9,8 @@
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "lint": "tsc",
     "dev": "vitest",
-    "test": "vitest run"
+    "test": "vitest run",
+    "changeset": "changeset"
   },
   "repository": {
     "type": "git",
