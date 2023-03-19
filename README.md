@@ -1,13 +1,20 @@
 # TS Template
 
-[![npm version](https://badge.fury.io/js/types-sync.svg)](https://www.npmjs.com/package/types-sync)
+[![npm version](https://badge.fury.io/js/ts-template-2.svg)](https://www.npmjs.com/package/ts-template-2)
 
 You only need this template to get started.
 
 🦋 Changesets Included
+
 🧪 Testing Setup
+
 🤖 CI Checks Included
+
 📦 Auto Release and Publish
+
+🚧 Size Limit
+
+🦾 Auto Types Sync
 
 ## Getting Started
 

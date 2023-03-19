@@ -11,7 +11,9 @@
     "dev": "vitest",
     "test": "vitest run",
     "changeset": "changeset",
-    "release": "npm run build && changeset publish"
+    "release": "npm run build && changeset publish",
+    "size-limit": "size-limit",
+    "postinstall": "types-sync"
   },
   "repository": {
     "type": "git",
@@ -26,8 +28,11 @@
   "homepage": "https://github.com/maddhruv/ts-template#readme",
   "devDependencies": {
     "@changesets/cli": "^2.26.0",
+    "@size-limit/file": "^8.2.4",
+    "@types/node": "^18.15.3",
+    "size-limit": "^8.2.4",
     "tsup": "^6.6.3",
-    "types-sync": "^3.26.0",
+    "types-sync": "^3.27.0",
     "typescript": "^4.9.5",
     "vite": "^4.1.4",
     "vitest": "^0.29.2"
